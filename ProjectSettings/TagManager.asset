@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CI-U
+  - SCP
+  - SCIENTIST
+  - D-CLASS
+  - DoorSimple
+  - MovableTerrain
+  - PERS_DiscordTag
+  - KILLREGION
+  - Unit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Background Screen
+  - Movement Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 669149627
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
